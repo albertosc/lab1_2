@@ -2,7 +2,7 @@
 void main()
 {
 	int x;
-	printf(digite um número);
+	printf(digite um nï¿½mero);
 	scanf(x);
 	printf(x);
 }
